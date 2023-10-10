@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Blueberry-todo-app/static/css/main.1e061f79.css",
+    "main.js": "/Blueberry-todo-app/static/js/main.8043c86e.js",
+    "index.html": "/Blueberry-todo-app/index.html",
+    "main.1e061f79.css.map": "/Blueberry-todo-app/static/css/main.1e061f79.css.map",
+    "main.8043c86e.js.map": "/Blueberry-todo-app/static/js/main.8043c86e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e061f79.css",
+    "static/js/main.8043c86e.js"
+  ]
+}
