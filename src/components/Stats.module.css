@@ -1,0 +1,13 @@
+.stats {
+  background-color: #542c49;
+  text-align: center;
+  font-weight: 700;
+  padding: 3.2rem 1rem;
+  color: #cbcbe3;
+}
+
+@media (max-width: 768px) {
+  .stats {
+    font-size: 22px;
+  }
+}
